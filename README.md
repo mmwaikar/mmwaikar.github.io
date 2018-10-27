@@ -1,2 +1,2 @@
-# mmwaikar.github.io
-Website for mmwaikar.
+# codionics.github.io
+Website for Codionics
